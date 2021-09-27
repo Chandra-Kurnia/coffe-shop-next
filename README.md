@@ -5,13 +5,13 @@
 </div>
   <h3 align="center">Coffe Shop</h3>
   <p align="center">
-    <a href="https://github.com/aryairama/coffe-shop-next"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Chandra-Kurnia/coffe-shop-next"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://bit.ly/_coffee_shop">View Demo</a>
     ·
-    <a href="https://github.com/aryairama/coffe-shop-next/issues">Report Bug</a>
+    <a href="https://github.com/Chandra-Kurnia/coffe-shop-next/issues">Report Bug</a>
     ·
-    <a href="https://github.com/aryairama/coffe-shop-next/pulls">Request Feature</a>
+    <a href="https://github.com/Chandra-Kurnia/coffe-shop-next/pulls">Request Feature</a>
   </p>
 </p>
 
@@ -63,7 +63,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Front End Repo
 ```
-git clone https://github.com/aryairama/coffe-shop-next.git
+git clone https://github.com/Chandra-Kurnia/coffe-shop-next.git
 ```
 - Go To Folder Repo
 ```
@@ -118,9 +118,9 @@ Contributions are what make the open source community such an amazing place to b
 
 
 ## Related Project
-:rocket: [`Backend Coffee-Shop`](https://github.com/aryairama/coffee-shop-express)
+:rocket: [`Backend Coffee-Shop`](https://github.com/Chandra-Kurnia/coffee-shop-express)
 
-:rocket: [`Frontend Coffee-Shop`](https://github.com/aryairama/coffe-shop-next)
+:rocket: [`Frontend Coffee-Shop`](https://github.com/Chandra-Kurnia/coffe-shop-next)
 
 :rocket: [`Demo Coffee-Shop`](https://bit.ly/_coffee_shop)
 
@@ -164,6 +164,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-My Email : aryairama987@gmail.com
+My Email : candrakurniawan.dev@gmail.com
 
-Project Link: [https://github.com/aryairama/coffe-shop-next](https://github.com/aryairama/coffe-shop-next)
+Project Link: [https://github.com/Chandra-Kurnia/coffe-shop-next](https://github.com/Chandra-Kurnia/coffe-shop-next)
